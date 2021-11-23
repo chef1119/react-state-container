@@ -1,5 +1,5 @@
 {
-  "name": "redux-zero",
+  "name": "state-container",
   "version": "4.5.0",
   "description": "",
   "main": "dist/redux-zero.js",
@@ -18,7 +18,7 @@
     "prepublish": "npm run build",
     "precommit": "npm run build"
   },
-  "author": "Matheus Lima <matheusml90@gmail.com>",
+  "author": "chef <cheft1119@gmail.com>",
   "files": [
     "dist",
     "interfaces",
